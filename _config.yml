@@ -24,7 +24,7 @@ l18815125083@gmail.com
 1369628922@qq.com
 description: >- # this means to ignore newlines until "baseurl:"
   但愿我可以一直写下去，一直优化他。
-baseurl: "李布典" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username: jekyll
