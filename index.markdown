@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+<div class="search-box">
+  {% include search-lunr.html %}
+</div>
